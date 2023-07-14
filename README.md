@@ -1,3 +1,2 @@
-An open-source font derived from Fontworks' Klee One. 
-
 # Cantabile
+An open-source font derived from Fontworks' Klee One. 
