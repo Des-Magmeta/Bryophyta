@@ -1,4 +1,4 @@
-# Cantabile
+# Cantamile
 An open-source font derived from Fontworks' Klee One, ideal for body text.  
 
 ## Introduction
@@ -8,7 +8,7 @@ Cantamile is a script font handwritten by pencil or pen. It's quiet design has a
 
 ## Authorization
 
-Plan Kai is derived from Klee One, which is licensed under the SIL Open Font License 1.1. [Klee](https://github.com/fontworks-fonts/Klee) is the trademark of FONTWORKS.
+Cantamile is derived from Klee One, which is licensed under the SIL Open Font License 1.1. [Klee](https://github.com/fontworks-fonts/Klee) is the trademark of FONTWORKS.
 
 ### License
 
