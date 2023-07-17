@@ -2,9 +2,9 @@
 An open-source font derived from Fontworks' Klee One, ideal for body text.  
 
 ## Introduction
-Cantabile is a script font handwritten by pencil or pen. It's quiet design has an elegant look that sets itself apart from traditional script and textbook fonts. Ideal for body text.  
+
 In December 2020, Japanese type foundry FONTWORKS released [7 Open-source Japanese fonts](https://github.com/fontworks-fonts) on GitHub, with [Klee One](https://github.com/fontworks-fonts/Klee) supporting the most characters. It shares some features with Fangsong and Kaiti, namely elegant composition and high readability. Unlike the textbook-style font, Klee One retains some features of traditional printed fonts.  
-In 2021, the font [LXGW WenKai](https://github.com/lxgw/LxgwWenKai) was made by [lxgw](https://github.com/lxgw), which was modified from Klee One, with some characters added. It has become a success. Other font designers also made fonts derived from Klee One, such as [Iansui](https://github.com/ButTaiwan/iansui), [JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai), and so on. 
+Cantamile is a script font handwritten by pencil or pen. It's quiet design has an elegant look that sets itself apart from traditional script and textbook fonts. Ideal for body text.    
 
 ## Authorization
 
