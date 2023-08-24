@@ -3,7 +3,7 @@ An open-source font derived from Fontworks' Klee One, ideal for body text.
 
 ## Introduction
 
-In December 2020, Japanese type foundry FONTWORKS released [7 Open-source Japanese fonts](https://github.com/fontworks-fonts) on GitHub, with [Klee One](https://github.com/fontworks-fonts/Klee) supporting the most characters. It shares some features with Fangsong and Kaiti, namely elegant composition and high readability. Unlike the textbook-style font, Klee One retains some features of traditional printed fonts.  
+In December 2020, Japanese type foundry FONTWORKS released [7 Open-source Japanese fonts](https://github.com/fontworks-fonts) on GitHub, with [Klee One](https://github.com/fontworks-fonts/Klee) supporting the most characters. It shares some features with Fangsong(仿宋) and Kaiti(楷体), namely elegant composition and high readability. Unlike the textbook-style font, Klee One retains some features of traditional printed fonts.  
 Cantamile is a script font handwritten by pencil or pen. It's quiet design has an elegant look that sets itself apart from traditional script and textbook fonts. Ideal for body text.    
 
 ## Authorization
