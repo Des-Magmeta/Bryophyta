@@ -1,4 +1,4 @@
-# Cantamile
+# Bryophyta
 An open-source font derived from Fontworks' Klee One, ideal for body text.  
 
 ## Introduction
@@ -8,7 +8,7 @@ Cantamile is a script font handwritten by pencil or pen. It's quiet design has a
 
 ## Authorization
 
-Cantamile is derived from Klee One, which is licensed under the SIL Open Font License 1.1. [Klee](https://github.com/fontworks-fonts/Klee) is the trademark of FONTWORKS.
+Bryophyta is derived from Klee One, which is licensed under the SIL Open Font License 1.1. [Klee](https://github.com/fontworks-fonts/Klee) is the trademark of FONTWORKS.
 
 ### License
 
@@ -19,7 +19,7 @@ Cantamile is derived from Klee One, which is licensed under the SIL Open Font Li
 ### Limit
 
 - When making a derived font, the font name cannot use the “reserved name” of the original font.
-- The reserved name “Cantamile” shall not be used for the second modified work. Without modifying the font source code, the recompiled font can continue to use its reserved name.
+- The reserved name “Bryophyta” shall not be used for the second modified work. Without modifying the font source code, the recompiled font can continue to use its reserved name.
   
 - According to the provisions of Article 1 in the license and terms of [SIL Open Font License 1.1](https://scripts.sil.org/OFL), **Selling this font by itself is banned.**
 - This font can't be distributed in a license other than the [SIL Open Font License 1.1](https://scripts.sil.org/OFL).
